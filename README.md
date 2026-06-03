@@ -53,7 +53,6 @@ Users can filter and analyze data by:
 ## Files Included
 - Sales_Financial_Analysis.pbix
 - Dataset.xlsx
-- Dashboard Screenshots
 - Project Documentation
 
 ## Dashboard Preview
